@@ -33,7 +33,7 @@ This matrix maps key project activities to roles using the RACI framework to cla
 | Activity | Dev | PdM | PM | TL | QA | DL | CM | RC | DO | SR |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Define problem statement and project goals | C | A/R | R | C | I | I | C | C | I | C |
-| Identify stakeholders | I | R | A/R | I | I | I | C | C | I | C |
+| Identify stakeholders | I | C | A/R | I | I | I | C | C | I | C |
 | Develop project charter / one-pager | I | C | A/R | C | I | C | C | C | R | C |
 | Assess initial risks | C | C | R | C | I | I | I | A/R | I | C |
 | Go / no-go decision | I | C | R | C | I | C | I | C | I | A |
@@ -79,7 +79,7 @@ This matrix maps key project activities to roles using the RACI framework to cla
 | Compliance and governance checkpoint | I | I | C | C | I | I | I | A/R | I | C |
 | Communications planning | I | C | R | I | I | C | A/R | I | C | C |
 | Deployment execution | A/R | I | I | C | C | I | I | I | I | I |
-| Post-deployment verification | R | I | R | C | A/R | I | I | I | I | I |
+| Post-deployment verification | R | I | I | C | A/R | I | I | I | I | I |
 | Stakeholder announcement | I | C | R | I | I | I | A/R | I | I | C |
 | Documentation publish | C | I | I | C | I | I | C | I | A/R | I |
 
