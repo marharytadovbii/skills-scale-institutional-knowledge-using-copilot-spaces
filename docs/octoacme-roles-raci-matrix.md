@@ -33,7 +33,7 @@ This matrix maps key project activities to roles using the RACI framework to cla
 | Activity | Dev | PdM | PM | TL | QA | DL | CM | RC | DO | SR |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Define problem statement and project goals | C | A/R | R | C | I | I | C | C | I | C |
-| Identify stakeholders | I | R | A/R | I | I | I | C | C | I | A |
+| Identify stakeholders | I | R | A/R | I | I | I | C | C | I | C |
 | Develop project charter / one-pager | I | C | A/R | C | I | C | C | C | R | C |
 | Assess initial risks | C | C | R | C | I | I | I | A/R | I | C |
 | Go / no-go decision | I | C | R | C | I | C | I | C | I | A |
@@ -99,7 +99,7 @@ This matrix maps key project activities to roles using the RACI framework to cla
 
 ## Notes on Using This Matrix
 
-- **Accountability (A)** should be held by exactly one role per activity. Where two roles share accountability, the primary is listed first.
+- **Accountability (A)** should be held by exactly one role per activity. The **A/R** notation means that single role is both Accountable and Responsible for that activity — it does not indicate shared accountability between two roles.
 - When a role is absent from a project (e.g., no dedicated Delivery Lead), the Project Manager typically absorbs those accountabilities.
 - This matrix represents typical assignments; project teams should review and adjust at kickoff if the project context warrants it.
 - See [Roles and Personas](./octoacme-roles-and-personas.md) for full descriptions of each role.
